@@ -320,6 +320,10 @@ streamlit run app.py --server.address 0.0.0.0
 ```
 
 ---
+# PARTE 7: Templates
+
+El usuario cuando clone el repositorio debera crear los archivos de config.py y base.py que son los archivos de configuracion, necesarios para el correcto funcionamiento del repositorio
+Se debe tener en cuenta la estructura existente en los respectivos template.py adaptandolos a las configuraciones que tenga el usuario
 
 # PARTE 8: Verificar
 
