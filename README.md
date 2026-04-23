@@ -325,6 +325,8 @@ streamlit run app.py --server.address 0.0.0.0
 El usuario cuando clone el repositorio debera crear los archivos de config.py y base.py que son los archivos de configuracion, necesarios para el correcto funcionamiento del repositorio
 Se debe tener en cuenta la estructura existente en los respectivos template.py adaptandolos a las configuraciones que tenga el usuario
 
+![Config Template](https://github.com/PlataformasWeb-P-AA2026/taller-02-grupo-4/blob/main/Captura%20desde%202026-04-23%2011-15-03.png?raw=true)
+
 # PARTE 8: Verificar
 
   * En función de la IP del server de visualización, verificar que todo funcione
