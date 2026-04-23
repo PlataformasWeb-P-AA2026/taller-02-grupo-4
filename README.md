@@ -336,3 +336,10 @@ Se implementó una arquitectura real separando:
 * visualización (visualizacion1)
 
 usando flujo profesional con GitHub y despliegue en infraestructura virtual.
+## Versión Local
+![version local](https://github.com/PlataformasWeb-P-AA2026/taller-02-grupo-4/blob/main/Captura%20desde%202026-04-21%2012-14-49.png?raw=true)
+Se puede visualizar en la imagen el dashboard que se esta ejecutando en localhost, tambien se muestra la ejecucion de la API y la respectiva Visualización
+## Versión en la Nube
+![version en la nube](https://github.com/PlataformasWeb-P-AA2026/taller-02-grupo-4/blob/main/Captura%20desde%202026-04-23%2010-28-16.png?raw=true)
+
+Se puede visualizar en la imagen el dashboard que se esta ejecutando desde el IP del Network, tambien se visualizan cada una de las maquinas virtuales solicitadas, viendo la respectiva ejecucion de la API, la visualizacion del dashboard, y el puerto donde postgresql esta escuchando
