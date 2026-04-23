@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Construir un sistema distribuido con tres máquinas virtuales:
+Construir un sistema distribuido con tres máquinas virtuales:HERRERA SALINAS ALBERTO NICOLAS, MENDOZA VEGA VICTOR ALFONSO
 
 * base1: base de datos PostgreSQL
 * api1: API con FastAPI
@@ -349,3 +349,7 @@ Se puede visualizar en la imagen el dashboard que se esta ejecutando en localhos
 ![version en la nube](https://github.com/PlataformasWeb-P-AA2026/taller-02-grupo-4/blob/main/Captura%20desde%202026-04-23%2010-28-16.png?raw=true)
 
 Se puede visualizar en la imagen el dashboard que se esta ejecutando desde el IP del Network, tambien se visualizan cada una de las maquinas virtuales solicitadas, viendo la respectiva ejecucion de la API, la visualizacion del dashboard, y el puerto donde postgresql esta escuchando
+
+---
+
+Integrantes: HERRERA SALINAS ALBERTO NICOLAS, MENDOZA VEGA VICTOR ALFONSO
